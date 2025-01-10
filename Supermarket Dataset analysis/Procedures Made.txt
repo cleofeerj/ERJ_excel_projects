@@ -1,0 +1,48 @@
+Overall Gross Margin
+Average Rating
+Total Items
+Average SALES (Total) Before Tax
+Average SALES (Total) After Tax
+
+
+Total Sales by Product Line (Bar Graph) - CHECKED
+Total Sales by Gender (Donut Chart) - CHECKED
+Sales overtime (Line Graph) - CHECKED
+Most Profitable Branch per gross income (Pie Chart) - CHECKED
+Average Unit Price of each Product line - CHECKED
+Find the most used payment method city-wise. (Bar Graph) - CHECKED
+
+
+Procedures:
+
+DATA CLEANING:
+	1.) Checked for duplicates, Missing Values, Incorrect format, Inconsistent Values. 
+
+FEATURE CREATION:
+	1.) Created a Column for clarity of the data to non-finance readers. Sales Before Tax column.
+
+ANALYSIS & VISUALIZATIONS:
+
+-- Total Sales by Product Line (Bar Graph)
+
+-- Total Sales by Gender (Donut Chart)
+
+-- Sales overtime (Line Graph)
+
+-- Most Profitable Branch per gross income (Pie Chart)
+
+-- Average Unit Price of each Product line
+
+-- Find the most used payment method city-wise. (Bar Graph)
+
+
+
+
+
+
+
+
+
+
+
+
